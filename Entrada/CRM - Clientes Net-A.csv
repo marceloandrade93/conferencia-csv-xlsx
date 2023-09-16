@@ -1,0 +1,21 @@
+Nome Organização,Fornecedor,Provedor,ID Maquina,IP Maquina,CPF/CNPJ,DDD,Telefone,Tipo Organização,Razão Social CNPJ,Responsável,Revenda,Email
+EMPRESA EXEMPLO – A,Companhia – A,Net-A,00000001,192.192.19.1,00.000.000/0001-10,41,0000-1111,Cliente,RAZAO SOCIAL – 1,Parceiro – 1,Revenda – 1,empresaexemplo1@teste.com.br
+EMPRESA EXEMPLO – B,Companhia – B,Net-A,00000002,192.192.19.1,00.000.000/0001-11,41,0000-1112,Cliente,RAZAO SOCIAL – 2,Parceiro – 1,Revenda – 1,empresaexemplo2@teste.com.br
+EMPRESA EXEMPLO – C,Companhia – C,Net-A,00000003,Presencial,00.000.000/0001-12,41,0000-1113,Cliente,RAZAO SOCIAL – 3,Parceiro – 1,Revenda – 1,empresaexemplo3@teste.com.br
+EMPRESA EXEMPLO – D,Companhia – D,Net-A,00000004,192.192.19.1,00.000.000/0001-13,41,0000-1114,Cliente,RAZAO SOCIAL – 4,Parceiro – 1,Revenda – 1,empresaexemplo4@teste.com.br
+EMPRESA EXEMPLO – E,Companhia – E,Net-A,00000005,192.192.19.1,00.000.000/0001-14,41,0000-1115,Cliente,RAZAO SOCIAL – 5,Parceiro – 1,Revenda – 1,empresaexemplo5@teste.com.br
+EMPRESA EXEMPLO – F,Companhia – F,Net-A,00000006,192.192.19.1,00.000.000/0001-15,41,0000-1116,Cliente,RAZAO SOCIAL – 6,Parceiro – 1,Revenda – 1,empresaexemplo6@teste.com.br
+EMPRESA EXEMPLO – G,Companhia – G,Net-A,00000007,Presencial,00.000.000/0001-16,41,0000-1117,Cliente,RAZAO SOCIAL – 7,Parceiro – 2,Revenda – 2,empresaexemplo7@teste.com.br
+EMPRESA EXEMPLO – H,Companhia – H,Net-A,00000008,Presencial,00.000.000/0001-17,41,0000-1118,Cliente,RAZAO SOCIAL – 8,Parceiro – 2,Revenda – 2,empresaexemplo8@teste.com.br
+EMPRESA EXEMPLO – I,Companhia – I,Net-A,00000009,192.192.19.1,00.000.000/0001-18,41,0000-1119,Cliente,RAZAO SOCIAL – 9,Parceiro – 2,Revenda – 2,empresaexemplo9@teste.com.br
+EMPRESA EXEMPLO – J,Companhia – J,Net-A,00000010,192.192.19.1,00.000.000/0001-19,41,0000-1120,Cliente,RAZAO SOCIAL – 10,Parceiro – 2,Revenda – 2,empresaexemplo10@teste.com.br
+EMPRESA EXEMPLO – K,Companhia – K,Net-A,00000011,192.192.19.1,00.000.000/0001-20,41,0000-1121,Cliente,RAZAO SOCIAL – 11,Parceiro – 2,Revenda – 2,empresaexemplo11@teste.com.br
+EMPRESA EXEMPLO – L,Companhia – L,Net-A,00000012,192.192.19.1,00.000.000/0001-21,41,0000-1122,Cliente,RAZAO SOCIAL – 12,Parceiro – 2,Revenda – 2,empresaexemplo12@teste.com.br
+EMPRESA EXEMPLO – M,Companhia – M,Net-A,00000013,192.192.19.1,00.000.000/0001-22,41,0000-1123,Cliente,RAZAO SOCIAL – 13,Parceiro – 2,Revenda – 2,empresaexemplo13@teste.com.br
+EMPRESA EXEMPLO – N,Companhia – N,Net-A,00000014,192.192.19.1,00.000.000/0001-23,41,0000-1124,Cliente,RAZAO SOCIAL – 14,Parceiro – 3,Revenda – 3,empresaexemplo14@teste.com.br
+EMPRESA EXEMPLO – O,Companhia – O,Net-A,00000015,192.192.19.1,00.000.000/0001-24,41,0000-1125,Cliente,RAZAO SOCIAL – 15,Parceiro – 3,Revenda – 3,empresaexemplo15@teste.com.br
+EMPRESA EXEMPLO – P,Companhia – P,Net-A,00000016,Presencial,00.000.000/0001-25,41,0000-1126,Cliente,RAZAO SOCIAL – 16,Parceiro – 3,Revenda – 3,empresaexemplo16@teste.com.br
+EMPRESA EXEMPLO – Q,Companhia – Q,Net-A,00000017,192.192.19.1,00.000.000/0001-26,41,0000-1127,Cliente,RAZAO SOCIAL – 17,Parceiro – 3,Revenda – 3,empresaexemplo17@teste.com.br
+EMPRESA EXEMPLO – R,Companhia – R,Net-A,00000018,192.192.19.1,00.000.000/0001-27,41,0000-1128,Cliente,RAZAO SOCIAL – 18,Parceiro – 3,Revenda – 3,empresaexemplo18@teste.com.br
+EMPRESA EXEMPLO – S,Companhia – S,Net-A,00000019,192.192.19.1,00.000.000/0001-28,41,0000-1129,Cliente,RAZAO SOCIAL – 19,Parceiro – 3,Revenda – 3,empresaexemplo19@teste.com.br
+EMPRESA EXEMPLO – T,Companhia – T,Net-A,00000020,192.192.19.1,00.000.000/0001-29,41,0000-1130,Cliente,RAZAO SOCIAL – 20,Parceiro – 3,Revenda – 3,empresaexemplo20@teste.com.br
